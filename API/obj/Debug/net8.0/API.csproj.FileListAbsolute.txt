@@ -116,3 +116,4 @@ C:\Users\EugeneOdhiamboOdongo\Desktop\Developer\Meka\TasteTrove\API\obj\Debug\ne
 C:\Users\EugeneOdhiamboOdongo\Desktop\Developer\Meka\TasteTrove\API\obj\Debug\net8.0\API.pdb
 C:\Users\EugeneOdhiamboOdongo\Desktop\Developer\Meka\TasteTrove\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\EugeneOdhiamboOdongo\Desktop\Developer\Meka\TasteTrove\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\EugeneOdhiamboOdongo\Desktop\Developer\Meka\TasteTrove\API\obj\Debug\net8.0\API.sourcelink.json
