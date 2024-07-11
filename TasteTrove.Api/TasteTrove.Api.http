@@ -1,0 +1,6 @@
+@TasteTrove.Api_HostAddress = http://localhost:5233
+
+GET {{TasteTrove.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
