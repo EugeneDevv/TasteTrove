@@ -10,4 +10,10 @@
   <ItemGroup>
     <ProjectReference Include="..\TasteTrove.Application\TasteTrove.Application.csproj" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.0-preview1" />
+  </ItemGroup>
 </Project>

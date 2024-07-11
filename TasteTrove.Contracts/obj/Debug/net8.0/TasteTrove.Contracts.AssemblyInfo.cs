@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TasteTrove.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18611703bf7cabd9120ae73a5dd35c502d9bcec9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be9a7ff8dceedc8364432241cb64f4cbcbf6c3eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TasteTrove.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TasteTrove.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
