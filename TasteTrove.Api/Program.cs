@@ -1,17 +1,14 @@
-using Microsoft.AspNetCore.Mvc.Infrastructure;
-using TasteTrove.Api.Common.Errors;
 using TasteTrove.Application;
 using TasteTrove.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
-    builder.Services.AddApplication()
+    builder.Services
+    .AddPresentation()
+    .AddApplication()
     .AddInfrastructure(builder.Configuration);
     
-    builder.Services.AddControllers();
-    builder.Services.AddSingleton<ProblemDetailsFactory, TasteTroveProblemDetailsFactory>();
-    builder.Services.AddEndpointsApiExplorer();
-    builder.Services.AddSwaggerGen();
+   
 }
 
 var app = builder.Build();
@@ -25,6 +22,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseExceptionHandler("/error");
 app.UseHttpsRedirection();
+app.UseAuthentication();
+app.UseAuthorization();
 app.MapControllers();
 
 app.Run();

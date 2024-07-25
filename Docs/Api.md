@@ -1,0 +1,1 @@
+Usig MediatR to split the application logic into features. We have each feature sitting in its own folder
