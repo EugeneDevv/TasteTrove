@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TasteTrove.Contracts
-build_property.ProjectDir = /Users/eugeneodhiambo/Developer/SmartSpot Solutions/TasteTrove/TasteTrove.Contracts/
+build_property.ProjectDir = C:\Users\EugeneOdhiamboOdongo\Desktop\Developer\Meka\TasteTrove\TasteTrove.Contracts\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
