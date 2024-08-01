@@ -1,0 +1,4 @@
+@host=http://localhost:5233
+
+GET {{host}}/api/food-items
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJnaXZlbl9uYW1lIjoiRXVnZW5lIiwiZmFtaWx5X25hbWUiOiJPZGhpYW1ibyIsImp0aSI6Ijc2MjYzMjE2LTdkMWItNGY3MS04NDAyLTMwYTcyZGRjMjY4MyIsImV4cCI6MTcyMjAxNjE4MiwiaXNzIjoiVGFzdGVUcm92ZSIsImF1
